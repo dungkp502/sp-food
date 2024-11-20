@@ -1,6 +1,6 @@
 # Shoppingapp
 
-**Ứng dụng kinh doanh đồ dùng công nghệ**
+**Ứng dụng Đặt đồ ăn**
 
 Đồ án là một ứng dụng thương mại điện tử  trên di động với mặt hàng sản phẩm là thức ăn, đồ uống, với giao diện hiện đại, bắt mắt nhưng vẫn đảm bảo tính thân thiện và dễ sử dụng.  Vì không gian hạn chế trên các thiết bị di động nên để mang lại trải nghiệm tốt nhất cho người dùng, ứng dụng hạn chế thể hiện quá nhiều thông tin trên một màn hình mà thay vào đó là chia ra nhiều loại màn hình chuyên dụng khác nhau kết nối với nhau một cách đơn giản và hợp lý.
 
